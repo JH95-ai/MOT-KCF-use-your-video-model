@@ -7,6 +7,8 @@ This cpp can use your video or camera test above project code
 
 # Dependencies:
 opencv4.2.0 module static lib
+
+
 vs2015 Release x64
 
 # Attention:
